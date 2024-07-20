@@ -1,5 +1,3 @@
-Claro! Aqui está o `README.md` completo, sem incluir o código:
-
 ```markdown
 # Magalu Selenium Test Suite
 
