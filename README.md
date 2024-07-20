@@ -10,7 +10,7 @@ Repositório para o trabalho de testes automatizados com Selenium no site da Mag
 - Andersson
 - Daniel 
 - Franklin 
-
+```
 ## Requisitos
 
 **Python**  
