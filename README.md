@@ -40,7 +40,7 @@ pip install selenium
 
 - **Clonar o repositório**, e deixar na pasta onde deseja salvar o trabalho:
   ```sh
-  git clone <URL_DO_REPOSITORIO>
+  git clone https://github.com/Frankl1sales/Magalu_Selenium.git
   ```
 - **Criar uma Branch**  
   Na página principal do repositório, clique em **Branch** e depois em **New Branch**.  
