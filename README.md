@@ -9,14 +9,9 @@ Repositório para o trabalho de testes automatizados com Selenium no site da Mag
 
 ### Integrantes
 
-- Nome 1
-- Nome 2
-- Nome 3
-- Nome 4
-- Nome 5
-- Nome 6
-- Nome 7
-- Franklin Sales
+- Andersson
+- Daniel 
+- Franklin 
 
 ## Requisitos
 
