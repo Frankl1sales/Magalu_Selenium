@@ -98,5 +98,3 @@ Magalu_Selenium/
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 ```
-
-Este `README.md` está estruturado para fornecer uma descrição clara do projeto, listar os integrantes, descrever os requisitos, e fornecer instruções detalhadas sobre como configurar e utilizar o repositório.
