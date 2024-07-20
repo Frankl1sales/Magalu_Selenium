@@ -36,7 +36,7 @@ def test_login():
     print("Página de login carregada com sucesso.")
     time.sleep(10)
     # Preencher os campos de login e senha
-    email_input.send_keys("franklinsales1711@gmail.com")  # Substitua pelo seu email
+    email_input.send_keys("#@gmail.com")  # Substitua pelo seu email
     
     # Clicar no botão "Continuar"
     try:
